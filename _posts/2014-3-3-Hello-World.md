@@ -1,7 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: "You're up and running!"
+published: true
 ---
+
+
+Here I do test my first post, checking out prose to see if it is a good fit, to use.
+
+lets try an image:
+something is not necessarily fully accurate :/
+
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
